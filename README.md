@@ -37,4 +37,4 @@ The dataset includes environmental sensor readings collected in Beijing across m
 ### 6. Screenshots / Demo
 
 ## Dashboard Preview
-[Dashboard Preview](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
