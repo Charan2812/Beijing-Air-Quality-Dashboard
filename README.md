@@ -37,4 +37,4 @@ Key Questions Answered
 6. Screenshots / Demo
 
 Dashboard Preview
-![Dashboard Screenshot](Snapshot of the Dashboad.png)
+![Dashboard Screenshot]([Snapshot of the Dashboad.png](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))
