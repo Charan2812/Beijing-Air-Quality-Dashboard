@@ -34,7 +34,7 @@ The dataset includes environmental sensor readings collected in Beijing across m
 -- Which pollutant categories show the highest averages throughout the year?  
 --How do weather factors like humidity and temperature influence pollution patterns?  
 
-# 6. Screenshots
+# 6. Screenshot
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
