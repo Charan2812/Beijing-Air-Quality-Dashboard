@@ -1,6 +1,6 @@
 # Beijing-Air-Quality-Dashboard
 ## 1. Project Title
-Beijing Air Quality Analysis – Interactive Power BI Dashboard
+### Beijing Air Quality Analysis – Interactive Power BI Dashboard
 
 ## 2. Description
 This Power BI dashboard provides a detailed and interactive analysis of Beijing’s air quality by visualizing key pollutant concentrations, temperature patterns, and humidity variations across different months. The report transforms complex environmental data into clear insights, helping users understand seasonal behavior, pollutant fluctuations, and weather conditions that influence air quality. Through intuitive visuals such as bar charts, KPIs, line graphs, and interactive slicers, the dashboard highlights critical environmental indicators including Ozone, Indium Oxide, Sulphur, Benzene, CO(GT), Nitrous Oxide, and Nitrogen Dioxide. It also identifies important metrics such as the hottest day and most humid day in the dataset. This project demonstrates strong analytical reporting, data modeling, and visualization skills using Power BI, making it ideal for environmental analysis, portfolio presentation, academic work, or research.
@@ -34,7 +34,7 @@ The dataset includes environmental sensor readings collected in Beijing across m
 -- Which pollutant categories show the highest averages throughout the year?  
 --How do weather factors like humidity and temperature influence pollution patterns?  
 
-### 6. Screenshots / Demo
+# 6. Screenshots
 
 ## Dashboard Preview
 ![Dashboard Preview](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
